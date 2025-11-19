@@ -1,0 +1,1 @@
+Bot package placeholder. (Full content failed earlier).
